@@ -44,7 +44,7 @@ int main(){
 			cout<<"m"<<"["<<i<<"]"<<"["<<j<<"]="<<m[i][j]<<"  ";
 			cout<<"s"<<"["<<i<<"]"<<"["<<j<<"]="<<s[i][j]<<endl;
 			}
-	cout<<endl<<"最后的括号分化为：";
+	cout<<endl<<"鏈�鍚庣殑鎷彿鍒掑垎涓猴細";
 	print(s,0,5);
 	return 0;
 }
